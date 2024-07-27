@@ -286,6 +286,11 @@ section {
   list-style: none;
 }
 
+.details-container ul img {
+  height: 2rem; 
+}
+
+
 .arrow {
   position: absolute;
   right: -5rem;
