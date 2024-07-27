@@ -282,6 +282,7 @@ section {
 }
 
 .details-container ul {
+  color: rgb(85, 85, 85);
   list-style: none;
 }
 
