@@ -33,9 +33,6 @@ nav,
   display: flex;
 }
 
-ul {
-  list-style-type: none;
-}
 
 nav {
   justify-content: space-around;
@@ -284,7 +281,9 @@ section {
   width: 100%;
 }
 
-
+ul li {
+  list-style-type: none;
+}
 
 .arrow {
   position: absolute;
