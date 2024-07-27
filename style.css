@@ -33,6 +33,10 @@ nav,
   display: flex;
 }
 
+ul {
+  list-style-type: none;
+}
+
 nav {
   justify-content: space-around;
   align-items: center;
